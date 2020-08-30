@@ -1,0 +1,2 @@
+D:\code\visual stdio\hello world\x64\Debug\hello world.exe
+D:\code\visual stdio\hello world\x64\Debug\hello world.pdb
